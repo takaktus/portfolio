@@ -3,8 +3,7 @@ body{
     border-left: solid #000832;
     border-right: solid #000832;
     border-left-width: 170px;
-    border-right-width: 170px;
-    
+    border-right-width: 170px;   
 }
 
 h1{
@@ -31,8 +30,7 @@ color: whitesmoke;
 }
 
 .info{
-    margin-left: 800px;
-    margin-top: px;
+    margin-left: 1450px;
     color: white;
 }
 
@@ -146,4 +144,22 @@ color: whitesmoke;
     margin: auto;
     max-width: 300px;
     max-height: 300px;
+}
+
+.video{
+    display: grid;
+    justify-content: space-around;
+    margin: auto;
+    gap: 45px;
+}
+
+.art{
+    display: grid;
+    justify-content: space-around;
+    gap: 50px;
+    margin-top: 50px;
+}
+
+.ref{
+    color: black
 }
